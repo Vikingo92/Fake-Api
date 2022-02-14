@@ -1,0 +1,149 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+}
+
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: white;
+
+}
+
+nav{
+    background-color: black;
+    width: 100%;
+    box-shadow:rgb(43, 40, 40)
+}
+
+.menu{
+    text-align: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+   
+    
+}
+
+.menu .encabezado{
+    display: inline-block;
+
+}
+
+.encabezado a{
+    text-decoration: none;
+    color: white;
+    font-weight:lighter;
+    padding: 15px 50px;
+    display: block;
+    
+}
+
+.encabezado{
+    color:white;
+}
+
+.encabezado a:hover{
+    background-color: red;
+}
+
+/* #principal{
+    min-height: 95vh;
+    min-width: 50vh;
+    background-image: url(../Images2/Matrix.jpg);
+    margin: 0;
+    width: 500px;
+    height: 300px;
+    padding: 30px;
+    left: 0;
+    top:0;
+    
+} */
+
+.slider img{
+    width: 900px;
+    border: 90px white;
+}
+
+.principal2{
+    margin:auto;
+    background-color: white;
+    width: 800px;
+    padding: 30px;
+    object-fit:cover;
+}
+ 
+
+#boton{
+    color: black;
+    padding: 10px;
+    border:none;
+    border-radius:5px;
+    margin: 50px;
+    width: 12%;
+}
+
+.iconos{
+    font-size: 35px;
+}
+
+img{
+    cursor:pointer;
+}
+
+footer p{
+    font-size: 10px;
+    padding: 5px;
+    color:#fff;
+    background-color: rgb(252, 36, 36);
+    font-size:16px;
+    margin-top: 20px;
+}
+
+#formulario{
+    text-align:center;
+    margin: auto;
+    height: 500px;
+    width: 600px;
+    border: 2px solid white;
+    align-content: center;
+}
+
+.formulario, p{
+    font-size: 20px;
+    padding: 10px;
+    
+}
+
+#dato1, #dato2, #dato3, #dato4{
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+    height: 30px;
+    margin: auto;
+    display: block;
+}
+
+#boton2{
+    background-color:red;
+    color:white;
+    padding: 10px;
+    border:none;
+    border-radius:5px;
+    margin: 30px;
+    width: 50%;
+}
+
+@media (max-width: 600px){
+    body{
+        flex: 100%;
+    }
+}
+
+@media (max-width: 800px){
+    body{
+        flex: 50%;  
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "series" : [
+        {
+            "id":1,
+            "name":"Blade Runner 2049",
+            "description": "Al final del siglo XX, miles de hombres y mujeres dejaron la Tierra para conquistar el espacio y escapar de las grandes ciudades, que se habían vuelto inhabitables. En las colonias nació una nueva raza de esclavos androides llamados Replicantes.",
+            "category": "Ciencia ficción/Acción",
+            "image":"./images2/Blade-Runner2.jpg",
+            "genre": "Movie"
+        },
+        {
+            "id":2,
+            "name":"Dune",
+            "description": "Arrakis, también denominado Dune, se ha convertido en el planeta más importante del universo. A su alrededor comienza una gigantesca lucha por el poder que culmina en una guerra interestelar.",
+            "category": "Ciencia ficción/Aventura",
+            "image":"./images2/Dune.jpg",
+            "genre": "Movie"
+        },
+        {
+            "id":3,
+            "name":"Encanto",
+            "description": "Una joven colombiana puede ser la última esperanza para su familia, cuando descubre que la magia que rodea a Encanto, un lugar encantado que bendice a los niños con dones únicos, se encuentra en serio peligro.",
+            "category": "Infantil/Musical",
+            "image":"./images2/Encanto.jpg",
+            "genre": "Movie"
+        },
+        {
+            "id":4,
+            "name":"Joker",
+            "description": "Arthur Fleck adora hacer reír a la gente, pero su carrera como comediante es un fracaso. El repudio social, la marginación y una serie de trágicos acontecimientos lo conducen por el sendero de la locura y, finalmente, cae en el mundo del crimen.",
+            "category": "Drama/Crimen",
+            "image":"./images2/Joker.jpg",
+            "genre": "Movie"
+        },
+        {
+            "id":5,
+            "name":"KingKong",
+            "description": "Un grupo de exploradores, liderado por un extrovertido director de cine, visitan Skull Island para investigar todo lo relacionado con la leyenda del gorila gigante llamado King Kong. Ahí encuentran una jungla llena de criaturas prehistóricas.",
+            "category": "Aventura/Fantasía",
+            "image":"./images2/KingKong.jpg",
+            "genre": "Movie"
+        },
+        {
+            "id":6,
+            "name":"Luca",
+            "description": "Luca es un monstruo marino que vive debajo de un pueblo de la costa italiana. Cuando sale a la superficie, adquiere una apariencia humana, y conoce a un nuevo amigo, igual que él. Juntos emprenden una aventura entre humanos que odian a los monstruos.",
+            "category": "Fantasía/Comedia",
+            "image":"./images2/Luca.jpg",
+            "genre": "Movie"
+        },
+        {
+            "id":7,
+            "name":"Matrix Reserrecion",
+            "description": "Thomas Anderson lleva una vida cómoda como una eminencia dentro del mundo de los videojuegos, pero tiene problemas para discernir entre lo que es realidad y lo que no lo es. Thomas deberá decidir si sigue al conejo blanco una vez más.",
+            "category": "Acción/Ciencia ficción",
+            "image":"./images2/Matrix.jpg",
+            "genre": "Movie"
+        },
+        {
+            "id":8,
+            "name":"SpiderMan far from Home",
+            "description": "Peter Parker asume su nueva identidad como Spider-Man y regresa a vivir con su tía después de su aventura con los Vengadores. Al volver, mientras sigue bajo la tutela de Tony Stark, descubre que ha surgido un nuevo y despiadado enemigo que pretende destruir todo lo que ama: el Buitre.",
+            "category": "Acción/Aventura",
+            "image":"./images2/SpiderMan.jpg",
+            "genre": "Movie"
+        },
+        {
+            "id":9,
+            "name":"SpongeBob",
+            "description": "SpongeBob SquarePants es una serie de televisión animada estadounidense que se ha adaptado a múltiples películas teatrales, comenzando en 2004 con The SpongeBob SquarePants Movie. Las películas son distribuidas por Paramount Pictures.",
+            "category": "Fantasía/Comedia",
+            "image":"./images2/SpongeBob.jpg",
+            "genre": "Movie"
+        },
+        {
+            "id":10,
+            "name":"Tenet",
+            "description": "Una acción épica que gira en torno al espionaje internacional, los viajes en el tiempo y la evolución, en la que un agente secreto debe prevenir la Tercera Guerra Mundial.",
+            "category": "Acción/Ciencia ficción",
+            "image":"./images2/Tenet.jpg",
+            "genre":"Movie"
+        },
+        {
+            "id":11,
+            "name":"Transformers",
+            "description": "En 1987, la adolescente Charlie encuentra en un depósito de chatarra lo que parece ser un Volkswagen amarillo corriente. Sin embargo, mientras lo restaura, el coche se transforma en Bumblebee, un pequeño autobot que ha sido enviado a la Tierra con el fin de establecer una base para los de su especie.",
+            "category": "Acción/Ciencia ficción",
+            "image":"./images2/Transformers.jpg",
+            "genre": "Movie"
+        },
+        {
+            "id":12,
+            "name":"Chernobyl",
+            "description": "Hombres y mujeres valientes actúan heroicamente para mitigar los daños catastróficos cuando la central nuclear de Chernobyl sufre un accidente nuclear el 26 de abril de 1986.",
+            "category": "Tragedia",
+            "image":"./images2/Chernobyl.jpg",
+            "genre":"Serie"
+        },
+        {
+            "id":13,
+            "name":"Euphoria",
+            "description": "Un grupo de estudiantes de secundaria navega entre drogas, relaciones sexuales, traumas, redes sociales, amor y amistad.",
+            "category": "Drama",
+            "image":"./images2/Euphoria.jpg",
+            "genre":"Serie"
+
+        },
+        {
+            "id":14,
+            "name":"Game of Thrones",
+            "description": "serie de televisión de drama y fantasía medieval",
+            "category": "Drama/Fantasia",
+            "image":"./images2/Game.jpg",
+            "genre": "Serie"
+        },
+        {
+            "id":15,
+            "name":"The Leftovers",
+            "description": "El dos por ciento de la población mundial desaparece drásticamente y sin ningún tipo de explicación, los supervivientes tratan de buscar una explicación para entender lo ocurrido, y por lo tanto, qué tienen que hacer al respecto.",
+            "category": "Misterio",
+            "image":"./images2/Leftovers.jpg",
+            "genre": "Serie"
+        },
+        {
+            "id":16,
+            "name":"Nevers",
+            "description": "Las mujeres victorianas se encuentran con habilidades inusuales, enemigos implacables y una misión que puede cambiar el mundo.",
+            "category": "Ciencia ficción",
+            "image":"./images2/Nevers.jpg",
+            "genre":"Serie"
+        },
+        {
+            "id":17,
+            "name":"Watchmen",
+            "description": "Estados Unidos, años 80, la Guerra Fría está en su apogeo, y los superhéroes, que antes habían sido admirados, ahora son perseguidos por la ley. Un día aparece muerto uno de ellos, El Comediante, que trabajaba para la CIA.",
+            "category": "Acción/Aventura",
+            "image":"./images2/Watchmen.png",
+            "genre":"Serie"
+        },
+        {
+            "id":18,
+            "name":"West World",
+            "description": "Los robots de un parque de diversiones futurista basado en el Salvaje Oeste enloquecen y se convierten en una amenaza para los visitantes.",
+            "category": "Ciencia ficción",
+            "image":"./images2/Westworld.jpg",
+            "genre": "Serie"
+        }
+
+    ]
+
+}
